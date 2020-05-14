@@ -1,0 +1,2 @@
+# PythonLectures
+Basic of python
