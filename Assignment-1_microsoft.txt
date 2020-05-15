@@ -1,0 +1,17 @@
+1.Take values of length and breadth of a rectangle from user and check if it is square or not.
+2.Take two int values from user and print greatest among them.
+3.A shop will give discount of 10% if the cost of purchased quantity is more than 1000.
+Ask user for quantity
+Suppose, one unit will cost 100.
+Judge and print total cost for user.
+
+4. A company decided to give bonus of 5% to employee if his/her year of service is more than 5 years.
+Ask user for their salary and year of service and print the net bonus amount.
+
+
+5. How is Python an interpreted language?
+6. Create a list variable of 5 elements and add 2 more element after that.
+7. create a list variable with 10 elements and pop element bu index=3
+8. create a list of 10 items and slice list items between 3 and 7 index 
+9. What is Data Type and how many Data types are there in python.
+10.WAP to convert Int to float.
